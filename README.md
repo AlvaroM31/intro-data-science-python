@@ -14,10 +14,14 @@ Este repositorio contiene mis primeros conceptos, ejercicios y prácticas en Pyt
 5. **Automatizando reportes repetitivos** – Generación de reportes automáticos.
 
 ### 🔹 Data (`/data`)
+- **Documentos usados en el archivo 5-Automizando_Reportes_repetitivos**
 - **productos.csv** → Contiene información de productos.
 - **tiendas.csv** → Información de tiendas.
-- **ventas** → Contiene información de 1086 archivos Excel.
-
+- **ventas** → Es un zip que contiene información de 1086 archivos Excel.
+- **Documentos usados en el archivo 4-Practicando_DataFrames**
+- **producto** → Productos que se venden.
+- **tienda** → Tiendas donde se venden los productos.
+- **ventas** → Contiene de 100 Ventas.
 ---
 
 ## 🚀 Objetivo
