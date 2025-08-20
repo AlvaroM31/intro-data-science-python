@@ -34,4 +34,4 @@ Este repositorio contiene mis primeros conceptos, ejercicios y prácticas en Pyt
 ---
 
 ## 👨‍💻 Autor
-Repositorio creado por *Alvaro Mendoza* como parte de mis prácticas en Python y análisis de datos.
+Repositorio creado por Alvaro Mendoza como parte de mis prácticas y aprendizaje en Python aplicado al análisis de datos.
